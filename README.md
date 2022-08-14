@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/theDailyGrind.png)
+![](https://media.giphy.com/media/txG49WSDMlTnZ0QXYe/giphy.gif)
 
 ### Links
 
