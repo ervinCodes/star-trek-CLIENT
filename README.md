@@ -55,6 +55,29 @@ As of now, the application is only able to get/read information from the databas
 
 ## Links to my other projects
 
-- [Personal Portfolio](https://www.dev-ervin.netlify.app)
-- [Advice Generator App](https://github.com/ervn12/adviceGenerator)
-- [Preferred Auto Spa (Auto Detail Business)](https://github.com/ervn12/preferredAutoSpa2)
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="33.3%"  style="align:center;" valign="top">
+        <a target="_blank" href="https://github.com/ervn12/myPortfolio">Personal Portfolio</a>
+        <br />
+      <a target="_blank" href="https://github.com/ervn12/myPortfolio">
+            <img src="https://media.giphy.com/media/bLQ6ITkWJPVQxrOrJ1/giphy.gif" width="100%"  alt="My Portfolio"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+        <a target="_blank" href="https://github.com/ervn12/adviceGenerator"> Advice Generator App</a>
+        <br />
+        <a target="_blank" href="https://github.com/ervn12/adviceGenerator">
+          <img src="https://media.giphy.com/media/jJUBGKPjU1yUjVhiIn/giphy.gif" width="100%" alt="Matching Card Game"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+        <a target="_blank" href="https://github.com/ervn12/preferredAutoSpa2">Preferred Auto Spa</a>
+        <br />
+        <a target="_blank" href="https://github.com/ervn12/preferredAutoSpa2">
+          <img src="https://media.giphy.com/media/kk17SqHqmfytgvZqSN/giphy.gif" width="100%" alt="Portfolio"/>
+        </a>
+    </td>
+  </tr>
+</table>
